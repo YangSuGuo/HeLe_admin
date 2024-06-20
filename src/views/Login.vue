@@ -7,7 +7,7 @@
       <el-link
           :underline="false"
           class="home-title"
-          href="http://localhost:5173/#/"
+          href="http://localhost:5173/"
           target="_blank"
           type="warning">
         Project Login
@@ -129,7 +129,7 @@ body {
 }
 
 #app {
-  background: url("https://img2.imgtp.com/2024/03/14/cJokvGQ0.jpg");
+  background: url("https://img.picui.cn/free/2024/06/03/665dda459afd4.jpg");
   background-size: 100% 100%;
 }
 

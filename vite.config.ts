@@ -6,6 +6,8 @@ import AutoImport from 'unplugin-auto-import/vite'
 import Components from 'unplugin-vue-components/vite'
 import {ElementPlusResolver} from 'unplugin-vue-components/resolvers'
 import path from "path";
+// 导入Element Plus的中文语言包
+// import zhCn from 'element-plus/es/locale/lang/zh-cn'
 
 const pathSrc = path.resolve(__dirname, 'src')
 export default defineConfig({
